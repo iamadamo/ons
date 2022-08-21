@@ -22,7 +22,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Api",
+        "title": "Top Films",
         "image": "",
         "provider": "wordpress",
         "arguments": [
