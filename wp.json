@@ -1,3 +1,4 @@
+
 [
   {
     "title": "USA",
@@ -5,19 +6,11 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Ligar",
-        "provider": "webview",
+        "title": "Community",
+        "provider": "wordpress",
         "arguments": [
-          "https://mejorcita.es/go/SolterosConNivel",
+          "",
           "deals"
-        ]
-      },
-      {
-        "title": "Solteros cerca de ti",
-        "provider": "webview",
-        "arguments": [
-          "https://mejorcita.es/go/be2",
-          "usa_new"
         ]
       }
   
@@ -30,7 +23,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Top Films and series",
+        "title": "Top Films",
         "image": "",
         "provider": "wordpress",
         "arguments": [
